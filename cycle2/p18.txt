@@ -1,0 +1,5 @@
+dict1 = {  'Anu': 5, 'Don': 7, 'Akku' : 10 }
+dict2 = {'Aksa': 8,'Alex': 20,'Meenu' : 11 }
+dict1.update(dict2)
+print('Updated dictionary 1 :')
+print(dict1)
